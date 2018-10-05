@@ -17,7 +17,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 1. 要知道，给对方发工资的不是你或者你老板。
 1. 要知道，提问的时候你才是 **孙子**，帮助你的人是 **大爷**。
 1. 要知道，不回答你的问题对其他人没有任何损失。
-1. 要知道，`准确描述一件事情`是一项基本生存技能。要学会 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+1. 要知道，`准确描述一件事情`是一项基本生存技能。要学会 [《提问的智慧》](https://johnreese2017.github.io/How-To-Ask-Questions-The-Smart-Way)
 1. 要知道，`搜索`是一项基本生存技能，学不会用 Google 的话，你可能真的不适合你所从事的行业。
 1. 要知道，`英文`是一项基本生存技能，不认识英文的话，你可能真的不适合你所从事的行业。
 
